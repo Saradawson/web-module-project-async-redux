@@ -1,5 +1,24 @@
 .App {
   text-align: center;
+  background-color: grey;
+}
+
+.Joke {
+  text-align: center;
+  width: 100%;
+  background-color: orange;
+  display: flex;
+  flex-direction: column;
+  padding: 4%;
+}
+
+button{
+  background-color: purple;
+  color: white;
+}
+
+.button {
+  padding: 2%;
 }
 
 .App-logo {
